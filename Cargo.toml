@@ -1,0 +1,8 @@
+[package]
+name = "mira-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fuels = "0.66.10"
+mira-v1 = { path = "../mira-v1-rs/packages/mira-v1" }
